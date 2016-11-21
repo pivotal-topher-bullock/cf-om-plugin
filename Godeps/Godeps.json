@@ -1,0 +1,17 @@
+{
+	"ImportPath": "github.com/pivotal-topher-bullock/cf-om-plugin",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "code.cloudfoundry.org/cli/plugin",
+			"Comment": "v6.22.1-303-ge4d64ff",
+			"Rev": "e4d64ff71bb73ff0c210f3c555e911c830e665f5"
+		},
+		{
+			"ImportPath": "code.cloudfoundry.org/cli/plugin/models",
+			"Comment": "v6.22.1-303-ge4d64ff",
+			"Rev": "e4d64ff71bb73ff0c210f3c555e911c830e665f5"
+		}
+	]
+}
